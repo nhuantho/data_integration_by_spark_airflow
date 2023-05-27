@@ -1,0 +1,8 @@
+apache-airflow==2.5.3 
+apache-airflow-providers-google==8.0.0
+apache-airflow-providers-apache-spark==4.0.1
+apache-airflow-providers-cncf-kubernetes==6.0.0
+Office365-REST-Python-Client==2.4.1
+pyspark==3.4.0
+cx-Oracle==8.3.0
+python-dotenv==1.0.0
