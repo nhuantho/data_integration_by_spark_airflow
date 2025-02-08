@@ -33,7 +33,7 @@ airflow users create \
     --firstname Admin \
     --lastname Admin \
     --role Admin \
-    --email admin@f88.vn
+    --email admin@gamil.com
 
 #### Sửa airflow.cfg
 dags_folder = đường đẫn folder lưu trữ dự án/data_integration_by_spark
